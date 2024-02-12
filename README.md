@@ -45,5 +45,6 @@ How It Works
 The project uses PyMuPDF and python-docx to extract text from documents.
 It then constructs a prompt for the OpenAI API, leveraging the GPT-3.5 Turbo model to identify skills mentioned in both the resume and job descriptions.
 Finally, the script outputs a list of matched skills for each job description compared against the resume.
+
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements, bug fixes, or improvements.
