@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-github-username/your-repo-name.git
+git clone [https://github.com/your-github-username/your-repo-name.git](https://github.com/kbboushe/Testing)
 cd your-repo-name
 Install required Python packages:
 bash
